@@ -26,27 +26,3 @@ switch (command) {
         console.log("Please 🙏 Input Right command");
         break;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
